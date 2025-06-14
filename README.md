@@ -1,6 +1,6 @@
-# movie_manager
+# Movie Manager
 
-A new Flutter project.
+Mobile app for tracking and managing movies using the Letterboxd API.
 
 ## Getting Started
 
